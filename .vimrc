@@ -16,7 +16,6 @@ set ignorecase
 set ruler
 set mouse=v
 set syntax=whitespace
-nnoremap <F5> :UndotreeToggle<cr>
 colorscheme delek
 set laststatus=2
 au InsertEnter * hi StatusLine ctermbg=Green ctermfg=White
